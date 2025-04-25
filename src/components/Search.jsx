@@ -6,7 +6,7 @@ export default function Search({ onSearch }) {
     <div className="relative w-full max-w-lg flex flex-col">
       <input
         type="text"
-        className="bg-white mx-auto w-full h-full px-2 sm:max-h-[62px] p-2 sm:p-[28px] text-xl font-semibold border-[#DDDDDD]placeholder:text-xl placeholder:font-semibold placeholder:text-black  placeholder:text-xs rounded-lg focus:outline-none"
+        className="bg-white mx-auto w-full h-full px-2 sm:max-h-[62px] p-2 sm:p-[28px] text-xl font-semibold border-[#DDDDDD] placeholder:text-xs placeholder:font-semibold placeholder:text-black  sm:placeholder:text-base rounded-lg focus:outline-none"
         placeholder="Digite um usuário do GitHub"
         value={input}
         onChange={e => setInput(e.target.value)}
