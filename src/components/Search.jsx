@@ -10,6 +10,10 @@ export default function Search({ onSearch }) {
         placeholder="Digite um usuário do GitHub"
         value={input}
         onChange={e => setInput(e.target.value)}
+        onKeyDown={(e) => {
+          if( e.key === 'Enter'){onSearch(input.trim());  
+          }
+        }}
       />
       <button
         className="bg-[#005CFF] absolute right-0 top-0 cursor-pointer text-white h-11 w-11 sm:h-[62px] sm:w-[62px] rounded-lg hover:bg-blue-700"

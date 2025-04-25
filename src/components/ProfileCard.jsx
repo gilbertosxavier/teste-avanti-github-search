@@ -11,7 +11,11 @@ export default function ProfileCard({ profile }) {
         />
         <div>
           <h2 className="text-lg md:text-xl text-[#005CFF] font-bold">{profile.name || profile.login}</h2>
-          <p className="text-black text-[15px] font-light ">{profile.bio}</p>
+          
+          {profile.bio?.trim() ?
+          ( <p className="text-black text-[15px] font-light ">{profile.bio}</p> ) :
+          ( <p className="text-black text-[15px] font-light italic ">Essa pessoa não possui informações inseridas na seção BIO.</p> )}
+         
         </div>
       </div>
 
