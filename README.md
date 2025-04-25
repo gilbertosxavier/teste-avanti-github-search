@@ -6,7 +6,7 @@ Aplicação desenvolvida como parte de um **teste técnico**, com o objetivo de 
 ---
 
 
-## 🧪 Requisitos do desafio
+## 🧪 Requisitos:
 
 
 ✅ Criar um campo de busca, onde o usuário digita o nome de um perfil do GitHub 
@@ -24,7 +24,7 @@ Aplicação desenvolvida como parte de um **teste técnico**, com o objetivo de 
 ---
 
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias:
 
 - [React](https://pt-br.react.dev/blog/2023/03/16/introducing-react-dev)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -46,9 +46,21 @@ Aplicação desenvolvida como parte de um **teste técnico**, com o objetivo de 
 
 
 ---
-## 
 
-## 📸 Demonstração
+
+
+## Projeto
+
+
+
+Acesse o projeto pelo aqui [GitHub Profile Search](https://teste-avanti-github-search.vercel.app/).
+
+
+---
+
+
+
+## 📸 Screenshots
 
 Algumas capturas de tela para ilustrar diferentes estados do aplicativo:
 
@@ -133,7 +145,7 @@ npm run dev
 
 ## 📞 Contato
 
-Construído por Gilberto xavier.
+Construído por Gilberto Xavier.
 
 [LinkedIn](https://www.linkedin.com/in/gilbertosx/)
 
