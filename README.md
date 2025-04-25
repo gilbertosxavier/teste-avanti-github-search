@@ -49,11 +49,11 @@ Aplicação desenvolvida como parte de um **teste técnico**, com o objetivo de 
 
 
 
-## Projeto
+## 📌 Projeto 
 
 
 
-Acesse o projeto pelo aqui [GitHub Profile Search](https://teste-avanti-github-search.vercel.app/).
+Veja o projeto rodando [aqui](https://teste-avanti-github-search.vercel.app/).
 
 
 ---
