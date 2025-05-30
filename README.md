@@ -149,4 +149,4 @@ Construído por Gilberto Xavier.
 
 [LinkedIn](https://www.linkedin.com/in/gilbertosx/)
 
-Email: (gilbertosxavier@live.com)
+[Email](mailto:gilbertosxavier@live.com)
